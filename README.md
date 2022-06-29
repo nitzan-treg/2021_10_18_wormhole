@@ -21,6 +21,7 @@ The Project is rendered in Redshift.
 <img src="Images/wormhole.png">
 
 Full Node Tree:
+
 <img src="Images/Node Tree.png">
 
 <!---------------------------------------------------------------------------------------------------------------------->
